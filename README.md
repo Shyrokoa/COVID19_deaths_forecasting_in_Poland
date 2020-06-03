@@ -3,6 +3,7 @@ This project discusses the basic machine learning algorithms for regression task
 
 
 --------------------EXECUTION-----------------------------------------------
+
 1. If you want to see our visualization report, please choose the
 [COVID19 Data Visualization.ipynb] 
 2. In situation, when you need our Long Shtort-Term Memory algorithm, 
@@ -13,6 +14,7 @@ Forecasting.ipynb]
 
 
 -----------------Requierement-----------------------------------------------
+
 I suggest you to use next versions of modukes, which you will need to
 execute this project.
 
