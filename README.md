@@ -19,12 +19,20 @@ I suggest you to use next versions of modukes, which you will need to
 execute this project.
 
 pandas 		1.0.3 
+
 numpy 		1.18.1 
+
 seaborn 	0.10.1 
+
 matplotlib 	3.1.3 
+
 keras 		2.3.1
+
 scikit-learn 	0.22.1 
+
 glob2 		0.7 
+
 *tflow*select 	2.2.0 
+
 tensorflow 	2.1.0
 
